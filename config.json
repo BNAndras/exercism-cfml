@@ -372,6 +372,14 @@
         "difficulty": 2
       },
       {
+        "slug": "sieve",
+        "name": "Sieve",
+        "uuid": "eb89df11-d62b-4510-9a96-15c3dc78a1ae",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "sum-of-multiples",
         "name": "Sum of Multiples",
         "uuid": "9d4fd39d-ae05-431a-8d71-5b5028595487",
