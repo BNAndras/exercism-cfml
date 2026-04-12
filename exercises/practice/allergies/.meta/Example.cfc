@@ -17,7 +17,7 @@ component {
 	* @returns 
 	*/
 	function allergicTo( item ) {
-		var itemPresent = function( allergen ) { return variables.item == arguments.allergen; }
+		var itemPresent = function( allergen ) { return item == arguments.allergen; }
 		return list().some( itemPresent );
 	}
 	
